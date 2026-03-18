@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Abel&family=Montserrat:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="shortcut icon" href="gd.png">
+    <title>Artur Jozef Bodzan</title>
+</head>
+
+<body>
+    <div class="main">
+        <div class="container">
+            <div class="gradient">
+                <div class="content">
+                    <h2>ARTUR JOZEF<br> BODZAN</h2>
+                    <p><strong>GD Services Srl</p>
+                        <br>
+                        <p class="details">System Administrator.</p>
+                        <div class="icons">
+						<a href="tel:+39 3202148931">
+						<i class="fa fa-phone" aria-hidden="true"></i>
+						<a href="mailto:a.bodzan@gdservices.tech">
+						<i class="fa fa-envelope" aria-hidden="true"></i>
+						<a href="https://www.linkedin.com/in/artur-bodzan-27a416190/"></i>
+                        <i class="fa fa-linkedin" aria-hidden="true"></i>
+						<a href="https://github.com/ArtB23"></i>
+                        <i class="fa fa-github" aria-hidden="true"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html
+
