@@ -17,14 +17,14 @@
         <div class="container">
             <div class="gradient">
                 <div class="content">
-                    <h2>ARTUR JOZEF<br> BODZAN</h2>
-                    <p><strong>GD Services Srl</p>
+                    <h2>NICO<br> </h2>
+                    <p><strong>Ladispoli</p>
                         <br>
                         <p class="details">System Administrator.</p>
                         <div class="icons">
 						<a href="tel:+39 3202148931">
 						<i class="fa fa-phone" aria-hidden="true"></i>
-						<a href="mailto:a.bodzan@gdservices.tech">
+						<a href="mailto:artur.bodzan@gmail.com">
 						<i class="fa fa-envelope" aria-hidden="true"></i>
 						<a href="https://www.linkedin.com/in/artur-bodzan-27a416190/"></i>
                         <i class="fa fa-linkedin" aria-hidden="true"></i>
